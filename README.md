@@ -8,7 +8,7 @@ YASnippet is here : https://github.com/capitaomorte/yasnippet
 
 Clone this repository:
 
-    $ git clone https://github.com/atotto/yasnippet-golang.git
+    $ git clone https://github.com/roxolan/yasnippet-golang.git
 
 Add the following in your `.emacs` file:
 
